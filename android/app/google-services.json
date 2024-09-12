@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770051985993",
+    "project_id": "online-shoping-a9b27",
+    "storage_bucket": "online-shoping-a9b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770051985993:android:af942c34491b08b4c72598",
+        "android_client_info": {
+          "package_name": "com.onsho.online_shoping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRyfa0EwvmZoEs6FJM2NgJ_DyZao_zw0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
